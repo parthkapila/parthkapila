@@ -6,6 +6,6 @@ I’m a student at Purdue University majoring in Computer and Information Techno
 
 Currently, I'm working as a data scientist at the Krenicki Center for BA & ML, where I apply machine learning and automation to solve real-world problems. Recently, I collaborated with non-profit organizations such as Girl Scouts of Central Indiana and Indy Reads to deliver impactful projects that solved their challenges.
 
-My current/recent projects include developing an AI-powered smart CRM with MCP capabilities, benchmarking multi-agent communication structures using CrewAI & LangChain, and revamping+scaling a sales forecasting platform.
+My current/recent projects include developing an AI-powered smart CRM with MCP capabilities, constructing multi-agent LLM systems using CrewAI & LangChain, and revamping+scaling a sales forecasting platform using Python and PostgreSQL.
 
 Feel free to explore my profile and reach out if you want to connect or collaborate!
