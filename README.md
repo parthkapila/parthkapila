@@ -1,6 +1,8 @@
-## Hey there! 👋🏽
+## Hello there 👋🏽
 
-Welcome to my GitHub. I’m a student at Purdue University majoring in Computer and Information Technology. I specialize in building modern data-driven solutions that lie at the intersection of fintech, data science, and artificial intelligence.
+Welcome to my GitHub!
+
+I’m a student at Purdue University majoring in Computer and Information Technology. I specialize in building modern data-driven solutions that lie at the intersection of fintech, data science, and artificial intelligence.
 
 Currently, I'm working as a data scientist at the Krenicki Center for BA & ML, where I apply machine learning and automation to solve real-world problems. Recently, I collaborated with non-profit organizations such as Girl Scouts of Central Indiana and Indy Reads to deliver impactful projects that solved their challenges.
 
