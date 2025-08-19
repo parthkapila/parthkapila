@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I’m a student at Purdue University majoring in Computer and Information Technology. I specialize in building modern data-driven solutions that lie at the intersection of fintech, data science, and artificial intelligence.
+I’m a student at Purdue University majoring in Computer and Information Technology. I specialize in building modern data-driven solutions that lie at the intersection of data analytics, cloud infrastructure, and artificial intelligence.
 
 Currently, I'm working as a data science consultant at the Krenicki Center for BA & ML, where I apply machine learning and automation to solve real-world problems.
 
